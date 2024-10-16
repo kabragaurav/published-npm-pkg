@@ -17,7 +17,7 @@ $ npm -v  # 10.8.3
 ### Dev
 
 ```
-npm version [major, minor, patch]
+$ npm version [major, minor, patch]
 ```
 
 ### Run
