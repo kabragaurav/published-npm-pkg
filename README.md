@@ -7,15 +7,32 @@ npm i gauravkabra
 
 # Local Dev
 
-Check installation
+### Check installation
+
+```bash
+$ node -v # v22.9.0
+$ npm -v  # 10.8.3
+```
+
+### Dev
 
 ```
-node -v # v22.9.0
-npm -v # 10.8.3
+npm version [major, minor, patch]
 ```
 
-Run:
+### Run
 
+```bash
+$ node index.js
 ```
-node index.js
+
+### Publish
+Push changes to git. Then run:
+
+```bash
+$ npm login
 ```
+
+---
+Package by Gaurav Kabra
+---
