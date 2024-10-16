@@ -1,0 +1,25 @@
+{
+  "name": "gauravkabra",
+  "version": "1.0.0",
+  "description": "Published NPM Package (npmjs.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabragaurav/published-npm-pkg.git"
+  },
+  "keywords": [
+    "gauravkabra",
+    "gaurav",
+    "kabra"
+  ],
+  "author": "Gaurav Kabra",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/kabragaurav/published-npm-pkg/issues"
+  },
+  "homepage": "https://github.com/kabragaurav/published-npm-pkg#readme"
+}
