@@ -31,6 +31,7 @@ Push changes to git. Then run:
 
 ```bash
 $ npm login
+$ npm publish
 ```
 
 ---
